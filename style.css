@@ -1,0 +1,11 @@
+input{
+    display: block;
+    border-radius: 5px;
+    outline: none;
+}
+form{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(175, 175, 175);
+}
